@@ -4,8 +4,12 @@ type: products
 image: /img/products-jumbotron.jpg
 intro:
   heading: What we offer
-  description: "Associate memberships to Douglas Cumali a grandmaster space time
-    navigator of intergalactic starfleet "
+  description: >-
+    Associate memberships to Douglas Cumali a grandmaster space time navigator
+    of intergalactic starfleet 
+
+
+    https://pay.stng.site
   blurbs: []
 main:
   heading: "Great benefits "
