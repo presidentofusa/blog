@@ -5,4 +5,4 @@ title = "Space Time Navigators Guild "
 disableKinds = ["RSS", "taxonomy", "taxonomyTerm"]
 
 [params]
-images = ["img/og-image.jpg"]
+images = ["img/ringworld.jpg"]
