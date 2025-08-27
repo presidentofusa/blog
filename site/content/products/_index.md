@@ -29,7 +29,8 @@ pricing:
   heading: Associate membership pricing
   description: "Full associate membership "
   plans:
-    - description: "Be one of the members of the Guild "
+    - description: "Be one of the first associate members of the Space Time
+        NavigatorsGuild "
       items:
         - You get access to the space time computer
       plan: "Lifetime membership "
