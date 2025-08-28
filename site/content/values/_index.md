@@ -1,6 +1,6 @@
 ---
 title: Accomplishments
-image: /img/about-jumbotron.jpg
+image: img/sa070825cend01.jpg
 values:
   - heading: "Grandmaster Space Time Navigator in Intergalactic Starfleet "
     text: The highest level of space time navigator in Intergalactic Starfleet. The
