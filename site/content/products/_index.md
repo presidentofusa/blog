@@ -18,15 +18,15 @@ main:
   description: More to come
   image1:
     alt: A close-up of a paper filter filled with ground coffee
-    image: /img/products-grid3.jpg
+    image: img/5cmothmwnzpipk2rw95sam-1200-80.png
   image2:
-    alt: A green cup of a coffee on a wooden table
-    image: /img/products-grid2.jpg
+    alt: "A colorfull picture "
+    image: img/sa070825cend01.jpg
   image3:
     alt: Coffee beans
-    image: /img/products-grid1.jpg
+    image: img/l-intro-1651612423.jpg
 testimonials: []
-full_image: /img/products-full-width.jpg
+full_image: img/supermassive-black-hole.jpg
 pricing:
   heading: Associate membership pricing
   description: "Full associate membership "
