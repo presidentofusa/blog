@@ -3,7 +3,7 @@ title: Contact
 logo: img/supermassive-black-hole.jpg
 contact_entries:
   - heading: Location
-    text: 3153 Lynn Avenue, South San Francisco, California 94080
+    text: 391 Ellis Street, San Francisco, California 94102
   - heading: Working hours
     text: "Monday – Saturday: 9AM – 7PM We’re closed on Sundays"
 ---
