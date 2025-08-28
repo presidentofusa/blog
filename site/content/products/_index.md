@@ -10,7 +10,9 @@ intro:
 
 
     https://pay.stng.site
-  blurbs: []
+  blurbs:
+    - image: img/black-hole-event-horizon-artistic-illustration.jpg
+      text: "The Great Attractor "
 main:
   heading: "Great benefits "
   description: More to come
