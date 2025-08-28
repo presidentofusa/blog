@@ -1,7 +1,7 @@
 ---
 title: "From The Space Time Navigators Guild "
 type: products
-image: /img/products-jumbotron.jpg
+image: img/2000x1333-black-hole-galaxy-a.jpg
 intro:
   heading: What we offer
   description: >-
