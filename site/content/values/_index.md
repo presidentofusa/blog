@@ -6,7 +6,7 @@ values:
     text: The highest level of space time navigator in Intergalactic Starfleet. The
       best they have ever seen
     imageUrl: img/ringworld.jpg
-  - heading: "United Federated Galaxies and Planets President "
-    text: "Awarded by unanimous vote "
-    imageUrl: img/472173340_122186412296131042_8573159025000674576_n.jpg
+  - heading: New test
+    text: Text
+    imageUrl: img/472335654_122186412212131042_3189934513800558275_n.jpg
 ---
