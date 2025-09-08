@@ -1,5 +1,5 @@
 ---
-title: mib.high.command. Named and declared high command of Men In Black
+title: Named and declared high command of Men In Black
 date: 2025-09-08T20:50:15.394Z
 description: When MIB said "We are never going to be able to contain this" one
   said "Then make him high command of MIB and he will have to contain it
