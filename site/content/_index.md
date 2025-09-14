@@ -13,6 +13,7 @@ products:
   - text: "Associate Membership "
     image: img/ringworld.jpg
 values:
-  heading: Our values
-  text: "To make San Francisco the home of the space time navigators guild "
+  heading: Our Aims
+  text: To make San Francisco the home of the space time navigators guild, Empress
+    of the universe and capitol of the United Federated Galaxies and Planets
 ---
