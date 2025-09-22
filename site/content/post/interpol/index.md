@@ -9,4 +9,12 @@ description: |-
   Golem
 image: 1000000885.jpg
 ---
-I am golem
+I am golem Lord of the Rings
+
+Satan's clown in Spawn. 
+
+The Drak in Enemy Mine
+
+Hades in Clash of the Titans 
+
+The voices of all the Autobots and Transformers
