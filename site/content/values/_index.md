@@ -6,6 +6,9 @@ values:
     text: The highest level of space time navigator in Intergalactic Starfleet. The
       best they have ever seen
     imageUrl: img/ringworld.jpg
+  - heading: "He gets his red belt in the suppression of a supernova "
+    text: "Completed in Union Square "
+    imageUrl: img/type-ia-supernova-1.gif
   - heading: "After the fact H-Bomb Countermeasures "
     text: "As documented by Scientific American by 7 different methodologies! "
     imageUrl: img/hbomb.jpg
