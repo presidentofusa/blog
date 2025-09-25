@@ -25,4 +25,8 @@ values:
   - heading: "Fourteen thousand foot high tidal wave. "
     text: I as a grandmaster of the elements suppressed the wave on Universe TV
     imageUrl: img/dreaming-of-tidal-waves.png
+  - heading: "The first intergalactic Emperor of the Universe "
+    text: "The Hematites and Crystalines (Diamonds) named declared me the first
+      intergalactic Emperor of the known universe. "
+    imageUrl: img/pink-diamondsbanner-1024x409.png
 ---
