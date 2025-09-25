@@ -22,11 +22,13 @@ values:
   - heading: "Landed an asteroid "
     text: "14 miles across at Jones and Offarrel "
     imageUrl: img/dqoalrnqy2efomn2uxaawppyywbprec1o_fbo1b_imw.jpg
-  - heading: "Fourteen thousand foot high tidal wave. "
-    text: I as a grandmaster of the elements suppressed the wave on Universe TV
-    imageUrl: img/dreaming-of-tidal-waves.png
   - heading: "The first intergalactic Emperor of the Universe "
     text: "The Hematites and Crystalines (Diamonds) named declared me the first
       intergalactic Emperor of the known universe. "
     imageUrl: img/pink-diamondsbanner-1024x409.png
+  - heading: Emperor's Red Guard
+    text: The one man entrusted with Empress transport by the Empress of the
+      Universe as Emperor of planet X the first intergalactic Emperor of all
+      Saturnian like worlds
+    imageUrl: img/within-saturns-rings-ron-miller-science-photo-library.jpg
 ---
