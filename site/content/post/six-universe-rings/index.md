@@ -8,3 +8,5 @@ image: fd670bc8ed76bf9a323671e026d112a7.jpg
 As a Grandmaster of martial arts in Kung Fu I bounce of the tarmac with six universe rings of 60 billion throwing Hades up and over Mount Olympus.
 
 He then sends me down the street to the Olympic Club with a gift to the Olympians of "Welcome back to the living"
+
+Hades said he loves my rendition of him!
