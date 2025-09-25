@@ -6,12 +6,12 @@ values:
     text: The highest level of space time navigator in Intergalactic Starfleet. The
       best they have ever seen
     imageUrl: img/ringworld.jpg
-  - heading: "He gets his red belt in the suppression of a supernova "
-    text: "Completed in Union Square "
-    imageUrl: img/type-ia-supernova-1.gif
   - heading: "After the fact H-Bomb Countermeasures "
     text: "As documented by Scientific American by 7 different methodologies! "
     imageUrl: img/hbomb.jpg
+  - heading: "He gets his red belt in the suppression of a supernova "
+    text: "Completed in Union Square "
+    imageUrl: img/type-ia-supernova-1.gif
   - heading: "San Francisco Sheriff's Air Squadron Commander "
     text: "When the Air Squadron disbanded the named me Commander. The number one
       star badge of California "
@@ -22,4 +22,7 @@ values:
   - heading: "Landed an asteroid "
     text: "14 miles across at Jones and Offarrel "
     imageUrl: img/dqoalrnqy2efomn2uxaawppyywbprec1o_fbo1b_imw.jpg
+  - heading: "Fourteen thousand foot high tidal wave. "
+    text: I as a grandmaster of the elements suppressed the wave on Universe TV
+    imageUrl: img/dreaming-of-tidal-waves.png
 ---
