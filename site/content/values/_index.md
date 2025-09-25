@@ -10,4 +10,7 @@ values:
     text: "When the Air Squadron disbanded the named me Commander. The number one
       star badge of California "
     imageUrl: img/472335654_122186412212131042_3189934513800558275_n.jpg
+  - heading: "After the fact H-Bomb Countermeasures "
+    text: "As documented by Scientific American by 7 different methodologies! "
+    imageUrl: img/hbomb.jpg
 ---
