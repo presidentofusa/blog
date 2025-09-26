@@ -31,4 +31,7 @@ values:
       Universe as Emperor of planet X the first intergalactic Emperor of all
       Saturnian like worlds
     imageUrl: img/within-saturns-rings-ron-miller-science-photo-library.jpg
+  - heading: "President of the United States of America "
+    text: "F-24 L 4896221 Scramble Code makes me the president "
+    imageUrl: img/yd0t3b-userview-1-1-.jpg
 ---
