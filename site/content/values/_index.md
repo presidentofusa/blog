@@ -35,4 +35,8 @@ values:
       Universe as Emperor of planet X the first intergalactic Emperor of all
       Saturnian like worlds
     imageUrl: img/within-saturns-rings-ron-miller-science-photo-library.jpg
+  - heading: Gold in Fort Knox
+    text: "I hold the 9 five hundred dollar certificates for the remaining gold in
+      Fort Knox making me the Federal Reserve Board of America "
+    imageUrl: img/images-1-.jpg
 ---
