@@ -39,4 +39,8 @@ values:
     text: "I hold the 9 five hundred dollar certificates for the remaining gold in
       Fort Knox making me the Federal Reserve Board of America "
     imageUrl: img/images-1-.jpg
+  - heading: Suppression of 14,000 foot tidal wave on the west coast
+    text: |
+      As a class T telekinetic documented on Universe TV
+    imageUrl: img/download-1-.jpeg
 ---
