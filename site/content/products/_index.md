@@ -31,10 +31,10 @@ pricing:
   heading: Associate membership pricing
   description: "Full associate membership "
   plans:
-    - description: "Be one of the first associate members of the Space Time
-        NavigatorsGuild "
+    - description: Be one of the first associate members of the Space Time
+        NavigatorsGuild https://pay.stng.site
       items:
         - You get access to the space time computer
       plan: "Lifetime membership "
-      price: "100"
+      price: "100 "
 ---
