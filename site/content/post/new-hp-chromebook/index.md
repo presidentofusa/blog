@@ -1,7 +1,7 @@
 ---
 title: "New HP Chromebook "
 date: 2025-10-12T01:53:06.735Z
-description: "Amazing for only $121.00 open box at Best buy "
+description: Amazing for only $121.00 open box at Best buy with tax
 image: 1000001276.webp
 ---
 Its faster than anything I ever had.
