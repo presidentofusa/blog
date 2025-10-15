@@ -12,6 +12,8 @@ stng.site
 
 stng.app
 
+docs.stng.app
+
 stng.online
 
 stngsanity.netlify.app
