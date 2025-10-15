@@ -6,7 +6,7 @@ image: img_1_1758784666179.jpg
 ---
 Demonstrate aptitude and competency against interference 
 
-work in progress so far
+Work in progress so far just with my Obama phone!
 
 stng.site
 
