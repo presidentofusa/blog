@@ -2,6 +2,7 @@
 title: "Major Arcana card number 2 the Priestess "
 date: 2025-10-18T03:49:16.548Z
 description: Second card nto thoth.stng.app
+image: thothpriestess.jpg
 ---
 ***The Deck of Thoth, created by the artist Aleister Crowley
 and painted by Frieda Harris, is a distinct set of tarot cards
