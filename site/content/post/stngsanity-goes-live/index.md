@@ -6,4 +6,8 @@ description: |-
   I stand here with one week without my Chromebook in content creation 
 image: fd670bc8ed76bf9a323671e026d112a7.jpg
 ---
+Done all with just my Obama phone!
+
 Content source for information on me and space time navigators guild
+
+Hades says he loves my rendition of him! Me
