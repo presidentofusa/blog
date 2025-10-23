@@ -2,9 +2,6 @@
 title: Accomplishments
 image: img/sa070825cend01.jpg
 values:
-  - heading: "After the fact H-Bomb Countermeasures "
-    text: "As documented by Scientific American by 7 different methodologies! "
-    imageUrl: img/hbomb.jpg
   - heading: "President of the United States of America "
     text: "F-24 L 4896221 Scramble Code makes me the president "
     imageUrl: img/yd0t3b-userview-1-1-.jpg
@@ -12,6 +9,9 @@ values:
     text: The highest level of space time navigator in Intergalactic Starfleet. The
       best they have ever seen
     imageUrl: img/ringworld.jpg
+  - heading: "After the fact H-Bomb Countermeasures "
+    text: "As documented by Scientific American by 7 different methodologies! "
+    imageUrl: img/hbomb.jpg
   - heading: "He gets his red belt in the suppression of a supernova "
     text: "Completed in Union Square "
     imageUrl: img/type-ia-supernova-1.gif
@@ -64,4 +64,11 @@ values:
     text: "Twenty-five hundred living ships, eleven hundred hospital ships and the
       bird of prey as captain and commander "
     imageUrl: img/472127424_122186412584131042_345133602801411564_n.jpg
+  - heading: "Captain of Chaos "
+    text: Under challenge by my mother she said " You bring on everything you have
+      against my son including all the forces of Chaos against my son this next
+      universe life challenge" and when I completed the universe life challenge
+      against all the forces Two days later Chaos named Captain for completing
+      the challenge with all of Chaos against me
+    imageUrl: img/images.jpeg
 ---
