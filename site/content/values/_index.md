@@ -74,6 +74,6 @@ values:
   - heading: "Sixth in the path of Line of Kings "
     text: |-
       He said he shall surely perish if he walks the path of the line of Kings
-      And my mom said "Then my son shall go first" 
-    imageUrl: img/screenshot.23-1.jpg
+      And my mom said "Then my son shall go first!" 
+    imageUrl: img/thoth_tarot_emperor.jpg
 ---
