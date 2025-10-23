@@ -28,6 +28,9 @@ values:
       Universe as Emperor of planet X the first intergalactic Emperor of all
       Saturnian like worlds
     imageUrl: img/within-saturns-rings-ron-miller-science-photo-library.jpg
+  - heading: "Landed an asteroid "
+    text: "14 miles across at Jones and Offarrel "
+    imageUrl: img/dqoalrnqy2efomn2uxaawppyywbprec1o_fbo1b_imw.jpg
   - heading: Gold in Fort Knox
     text: "I hold the 9 five hundred dollar certificates for the remaining gold in
       Fort Knox making me the Federal Reserve Board of America "
@@ -36,9 +39,6 @@ values:
     text: |
       As a class T telekinetic documented on Universe TV
     imageUrl: img/download-1-.jpeg
-  - heading: "Landed an asteroid "
-    text: "14 miles across at Jones and Offarrel "
-    imageUrl: img/dqoalrnqy2efomn2uxaawppyywbprec1o_fbo1b_imw.jpg
   - heading: "Google cloud compromised "
     text: "Shutting down "
     imageUrl: img/1756437770554.png
@@ -71,4 +71,9 @@ values:
       against all the forces Two days later Chaos named Captain for completing
       the challenge with all of Chaos against me
     imageUrl: img/images.jpeg
+  - heading: "Sixth in the path of Line of Kings "
+    text: |-
+      He said he shall surely perish if he walks the path of the line of Kings
+      And my mom said "Then my son shall go first" 
+    imageUrl: img/screenshot.23-1.jpg
 ---
